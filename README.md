@@ -45,14 +45,6 @@ Bienvenue dans **le projet le plus festif de l'année** ! Ce formulaire React, d
 
 Bon, on n'a pas encore de tests automatisés, mais si vous cliquez partout et que rien ne casse, c'est que ça marche. Et comme on dit chez moi, sur mon PC ça marchait bien. 😅
 
-## 🤔 Pourquoi ce projet ?
-
-Parce que Noël, c'est mieux quand c'est organisé. Et aussi parce que coder un formulaire avec des commentaires drôles, c'est plus fun. 🎅
-
-## 📝 À propos des commentaires
-
-Vous remarquerez que le code est truffé de commentaires maladroits et humoristiques. C'est volontaire, promis. Ça donne un côté humain (et un peu chaotique) au projet.
-
 ---
 
 🎁 **Amusez-vous bien et passez un joyeux Noël !** 🎄
